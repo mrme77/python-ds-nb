@@ -43,14 +43,7 @@ Given the dictionary defined in the code cell below, print the list of level 3 s
 ### Question 9 
 Write code to determine the number of unique elements in the list below. You MUST use a set in finding your solution. Print the number of unique values in the list with an appropriate label.
 
-<<<<<<< HEAD
-- Question 10 Create a new Jupyter Notebook (the name of the notebook should be your S number). Add a Markdown cell that contains your name. Add a Code cell and write Python that uses loops to draw the following pattern:
 
-```*      *
-   **    **
-   ***  ***
-   ********
-=======
 ### Question 10 
 Create a new Jupyter Notebook (the name of the notebook should be your S number). Add a Markdown cell that contains your name. Add a Code cell and write Python that uses loops to draw the following pattern:
 ```
@@ -58,7 +51,6 @@ Create a new Jupyter Notebook (the name of the notebook should be your S number)
 **    **
 ***  ***
 ********
->>>>>>> origin/main
 ```
 ## Installation
 
