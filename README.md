@@ -36,13 +36,15 @@ This project is part of the Web Mining and Applied NLP (44-620) course, student'
 - Question 9 Write code to determine the number of unique elements in the list below. You MUST use a set in finding your solution. Print the number of unique values in the list with an appropriate label.
 
 - Question 10 Create a new Jupyter Notebook (the name of the notebook should be your S number). Add a Markdown cell that contains your name. Add a Code cell and write Python that uses loops to draw the following pattern:
--*      *
-**    **
-***  ***
-********
+
+```*      *
+   **    **
+   ***  ***
+   ********
+```
 ## Installation
 
-To use this project, make sure you have Python 3.8 installed on your system. You can check your Python version by running the following command in your terminal:
+To use this project, make sure you have Python 3.8 installed on your system. Do not install modules like math and statistics. You can check your Python version by running the following command in your terminal:
 
 ```shell
 python --version
