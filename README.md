@@ -45,11 +45,12 @@ Write code to determine the number of unique elements in the list below. You MUS
 
 ### Question 10 
 Create a new Jupyter Notebook (the name of the notebook should be your S number). Add a Markdown cell that contains your name. Add a Code cell and write Python that uses loops to draw the following pattern:
+```
 *      *
 **    **
 ***  ***
 ********
-
+```
 ## Installation
 
 To use this project, make sure you have Python 3.8 installed on your system. You can check your Python version by running the following command in your terminal:
