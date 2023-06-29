@@ -15,7 +15,7 @@ python --version
 ```
 ## Acknowledgments
 
-We would like to acknowledge the following resources that were instrumental in the development of this project:
+I would like to acknowledge the following resources that were instrumental in the development of this project:
 
 - ChatGPT by OpenAI: We used ChatGPT, a powerful language model, to assist in generating responses and providing guidance during the development process. ChatGPT played a crucial role in enhancing the functionality and accuracy of our project.
 
