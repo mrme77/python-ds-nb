@@ -4,7 +4,7 @@ Python Data Structures and Notebooks
 
 ## Description
 
-This project is part of the Web Mining and Applied NLP (44-620) course, student's name is Pasquale Salomone. The notebook aims at reviewing some python data structures, like lists and dictionaries, as well as how to use loop, and perform mathematical operations without using standard libraries like math or statistics. Here is the link to the Github repository: [Github Repo](https://github.com/mrme77/python-ds-nb).
+This project is part of the Web Mining and Applied NLP (44-620) course, student's name is Pasquale Salomone. The notebook aims at reviewing some python data structures, like lists and dictionaries, as well as the use of loop and conditional statments, and performing mathematical operations without using standard libraries like math or statistics. Here is the link to the Github repository: [Github Repo](https://github.com/mrme77/python-ds-nb).
 
 ## Installation
 
